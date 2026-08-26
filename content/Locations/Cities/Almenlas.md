@@ -1,0 +1,1 @@
+Religious capital of Aventia. Subject to many pilgrimages.

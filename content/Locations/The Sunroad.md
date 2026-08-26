@@ -1,0 +1,1 @@
+The spine of Aventia, a large and well maintained road from Catium all the way north through Ereldes and on to Almenlas. The road is over 100 miles long (a 10 day journey for a horse-drawn wagon). It is supposed to be kept illuminated by oil lantern and patrolled by guard at regular intervals.
