@@ -2,4 +2,6 @@
 title: Shade Hollow Wiki
 ---
 
-This file has been created automatically by GitHub Publish plugin. Quartz expects a 'index.md' at the top level to render the home page of your site, feel free to edit the title and write your content!
+Use the sidebar to the left to search or navigate, or start with the [[History of Aventia]].
+
+![[Aventia-Labeled.jpg]]

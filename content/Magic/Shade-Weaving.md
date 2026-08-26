@@ -1,5 +1,3 @@
-> [!UNDER CONSTRUCTION]
-
 Shade-weaving is a broad term for the practice of utilizing the magical energy left behind by human souls when they die. Most weavers can only perform small tricks and the art has only been academically studied in the Kingdom for two generations, although religious figures have been practicing intuitively for hundreds of years.
 
 ### Shade-Alchemy
