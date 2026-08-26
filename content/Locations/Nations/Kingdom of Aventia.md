@@ -1,11 +1,8 @@
-### Early History
-[[The Kingdom of Aventia]] was formed when the warlord Domarc Avent landed raiding ships from the island of Thaspia, where he was a clan leader. Domarc swiftly conquered the villages near what would become Catium Bay and claimed the territory for himself and his clan, renaming it Aventia. Domarc's sons, Mitus and Cuso, expanded the territory with campaigns of their own during a bloody thirty year conflict with the surrounding villages that claimed Mitus' life.
-
+## History
+The Kingdom of Aventia was formed when the warlord Domarc Avent landed raiding ships from the island of Thaspia, where he was a clan leader. Domarc swiftly conquered the villages near what would become Catium Bay and claimed the territory for himself and his clan, renaming it Aventia. Domarc's sons, Mitus and Cuso, expanded the territory with campaigns of their own during a bloody thirty year conflict with the surrounding villages that claimed Mitus' life.
 ### Cusorian Era
 The descendants of Cuso Avent settled into more peaceful lives of feudal nobility, adopting some of the traditions of the neighboring states (Kapova to the west and Aelmor to the north) as farming became the dominant occupation instead of soldiering. For almost 100 years, Aventia was a small oligarchic state which formed agreements for trade and mutual defense with its monarchic neighbors.
-
 ### Maurovian Era
 A cultural regression towards appreciation for Aventia's violent expansionist formation gave rise to a religious and cultural movement which demanded conquest and religious subjugation. A nobleman from a formerly Aelmorian family, Anel Mauro, married princess Silda Avent and assumed the title of king. He became the populist face of this conservative cultural movement. He led (from afar) conquests into both neighboring states of Kapova and Aelmor, breaking 100 years of peace, and unified the peninsula into one sovereign state under Aventia. His conquests were finally halted at the edge of the Trenca Forest, a largely unexplored bog-forest which would not permit cavalry to pass, and now serves as the natural barrier between Aventia and the Kingdom of Sovelka.
-
 ### Modern Era
 A new cultural movement centering commerce, science, and medicine dominates the current era. Large sailing ships are the primary vehicle for international trade, and for the first time knowledge is a viable pursuit.

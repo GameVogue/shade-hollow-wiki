@@ -1,14 +1,10 @@
-The majority of traditional shade-weavers practice with the aide of alchemy, due to the effects of certain alchemical compounds on shades.
-
-*(Based on https://en.wikipedia.org/wiki/List_of_alchemical_substances)*
-
-https://en.wikipedia.org/wiki/Alchemical_symbol
+The following is a list of ingredients, compounds, materials, etc. that are known to have alchemical properties.
 
 **The Metals**
-- *Iron* `(ferrum)` - Absorbs and stores shade energy
-- *Gold* `(aurum)` - Repels shade energy, protects against shades
-- *Silver* `(argentum)` - Attracts shade energy, conductive
-- *Lead* `(satum)` - Impermeable to shade energy, fixative to alchemical properties
+- *Iron* `(ferrum)` - Absorbs and stores energy
+- *Gold* `(aurum)` - Repels energy, protects against shades
+- *Silver* `(argentum)` - Attracts energy, conductive
+- *Lead* `(satum)` - Impermeable to energy, fixative to alchemical properties
 - *Copper* `(cuprum)` - Conductive, antimicrobial, impervious to non-oxidizing liquids, commonly used for fittings and vessels in alchemy
 
 **The Solvents**
@@ -27,6 +23,12 @@ A Vitriol is an alchemical crystal or powder, also used as pigments in dye and p
 - *Black Vitriol* `(bitumen vitre)` - Sealant, semi-solid, viscous and sticky black tar.
 
 **The Salts**
-- *Saltpetre* `(sal petrae)` - Potassium nitrate, fertilizer, propellant, oxidizer, component of blackpowder
+- *Saltpetre* `(sal petrae)` - Potassium nitrate, fertilizer, oxidizer, component of blackpowder
 - *Seasalt* `(sal oceanus)` - Sodium chloride, obtained by boiling seawater
 - *Hartsalt* `(sal ammoniac)` - Ammonium carbonate, smelling salts, revives the faint
+
+
+---
+References:
+1. https://en.wikipedia.org/wiki/List_of_alchemical_substances
+2. https://en.wikipedia.org/wiki/Alchemical_symbol

@@ -1,4 +1,4 @@
-Gods aren't real, but rituals do have power, and religion is common in [[The Kingdom of Aventia]].
+Gods aren't real, but rituals do have power, and religion is common in [[Culture of Aventia]].
 
 ## The Church
 The Kingdom has one official religion which serves a binary Sun and Moon god-pair. Stars represent human souls that have not yet fallen down to earth. Shooting stars herald a birth somewhere on the horizon.

@@ -1,5 +1,5 @@
 ---
-title: Shade Hollow Wiki
+title: Home
 ---
 
 Use the sidebar to the left to search or navigate, or start with the [[History of Aventia]].

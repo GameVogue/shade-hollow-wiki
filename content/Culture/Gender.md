@@ -1,4 +1,4 @@
-[[The Kingdom of Aventia]] suffers from a moderate affliction of patriarchy, as a secondary knock-on effect of monarchism. Society in general favors men for most roles in leadership, but women can hold leadership roles as long as they work harder than the men around them.
+[[Culture of Aventia]] suffers from a moderate affliction of patriarchy, as a secondary knock-on effect of monarchism. Society in general favors men for most roles in leadership, but women can hold leadership roles as long as they work harder than the men around them.
 
 Non-binary and transgender people are closeted except in permissive pocket communities (communes, monasteries, woodland bandit gangs, secret occult circles).
 
