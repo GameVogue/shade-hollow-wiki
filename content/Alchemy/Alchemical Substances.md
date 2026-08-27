@@ -2,7 +2,7 @@ The following is a list of ingredients, compounds, materials, etc. that are know
 
 **The Metals**
 - *Iron* `(ferrum)` - Absorbs and stores energy
-- *Gold* `(aurum)` - Repels energy, protects against shades
+- *Gold* `(aurum)` - Repels energy, protects against spirits
 - *Silver* `(argentum)` - Attracts energy, conductive
 - *Lead* `(satum)` - Impermeable to energy, fixative to alchemical properties
 - *Copper* `(cuprum)` - Conductive, antimicrobial, impervious to non-oxidizing liquids, commonly used for fittings and vessels in alchemy

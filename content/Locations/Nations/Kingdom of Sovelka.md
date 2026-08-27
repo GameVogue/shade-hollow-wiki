@@ -1,4 +1,4 @@
-Bordering the Aventia on the west is Solvelka, an older nation culturally similar in many ways to its former ally Old Kapova. 
+Bordering the Aventia on the west is Sovelka, an older nation culturally similar in many ways to its former ally Old Kapova. 
 
 ## Relationship to Aventia
 A sizeable swampland insulates the two nations from eachother, preventing either from sending large armies or trade caravans.
