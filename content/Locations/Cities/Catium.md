@@ -8,13 +8,5 @@ Domarc Avent claimed the bay and village for himself and named it Catium, relate
 **Cusorian Era**
 Cuso Avent declared Catium the capital of Aventia, taking after the customs of nearby nations to declare a stationary seat of power.
 
-
-
-
-
-**MISC NAMES**
-Religion City:
-Cantivia, Atecar, Ereldes, Anidon, Almenlas, Castera
-
-Capital City:
-Arinthus, Catium, Lixantha, Strathius, Corium, Nemia
+### Exports
+Olive oil, spices

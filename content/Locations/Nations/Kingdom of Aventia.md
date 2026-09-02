@@ -11,3 +11,8 @@ A new cultural movement centering commerce, science, and medicine dominates the 
 See [[Culture of Aventia]].
 
 ## Economy
+See [[Currency]] for an overview of the monetary system itself.
+
+Aventia in the Modern Era is increasingly dominated by mercantile capitalism, though significant remnants of older economic systems remain. Rural areas are relatively unchanged from the last hundred years of feudal peasant agriculture, and urban production is still regulated by powerful craft guilds. Traditional wealth remains concentrated among nobles, large landowners, and the Church, while a growing merchant and banking class is accumulating new fortunes through trade, finance, and investment.
+
+A merchant from [[Catium]] might hire a caravan to transport spices and olive oil from Catium to [[Hafeld]], where they are sold at a profit in order to then purchase honeyand ale. These goods are then brought south again to [[Ereldes]] to sell for silver and gold, which is brought back to Catium. With enough wealth accrued, the merchant might charter a vessel to distant foreign ports, purchasing spices and silks to return and sell in Catium's markets.
